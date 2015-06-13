@@ -18,7 +18,7 @@ Use the script as follows:
 ------------
 
  - Database backend to save the list.
- - Regular proxy functionality verification.
+ - Proxy port verification.
 
 **Credits**
 -------
